@@ -10,13 +10,13 @@ The script takes a standard plain-text phrase from the user and systematically r
 **Input Example:** "secret password"
 **Output Example:** "s6cr6t p4ssw0rd"
 
-## 🛠️ Python Concepts Learned
+### 🛠️ Python Concepts Learned
  **Data Mapping:** Using Python dictionaries to handle key-value pairs (`{"a": "4"}`).
  **Control Flow:** Implementing `if/else` logic to decide when to swap a character.
  **String Manipulation:** Standardizing user inputs using `.lower()` and appending characters dynamically.
  **Iteration:** Using `for` loops to safely inspect user data line by line.
 
-## 💻 How to Run Locally
+#### 💻 How to Run Locally
 1. Ensure you have Python installed on your system.
 2. Clone or download this repository.
 3. Run the following command in your terminal:
