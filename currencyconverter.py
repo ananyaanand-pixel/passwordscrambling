@@ -17,4 +17,4 @@ elif sym=="p":
     print("value in inr is", val*130.52)
 else:
      print("unrecognised currency!")
-print("value is as per date 28/8/26")
+print("value is as per date 24/8/26")
