@@ -14,6 +14,9 @@ Output Example: "s6cr6t p4ssw0rd"
 🛠️ Python Concepts Learned
 
 Data Mapping: Using Python dictionaries to handle key-value pairs ({"a": "4"}). 
+
 Control Flow: Implementing if/else logic to decide when to swap a character. 
+
 String Manipulation: Standardizing user inputs using .lower() and appending characters dynamically. 
+
 Iteration: Using for loops to safely inspect user data line by
