@@ -54,6 +54,4 @@ To run any script from this repository locally on your machine, ensure you have 
 
 ---
 
-## 🤝 Connect With Me
-* **LinkedIn:** [Ananya Anand](https://linkedin.com)
-* **GitHub Profile:** [@ananyaanand-pixel](https://github.com)
+
