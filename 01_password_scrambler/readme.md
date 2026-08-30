@@ -1,4 +1,5 @@
 LeetSpeak Password Scrambler 🔐
+
 A lightweight, beginner-friendly Python tool that enhances password security by applying a classic cryptographic concept: LeetSpeak obfuscation. 
 This project was built to practice foundational programming skills within a cybersecurity context. 
 While researching on this project i came to know about leetspeak, a sort of hacker's language where letters are replaced by numbers looking similar to it, this gives hackers a tough time to crack password.
