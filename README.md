@@ -12,9 +12,9 @@ To keep this space clean, all codes are organized inside chronologically ordered
     * *Description:* A basic cryptographic learning script that takes raw password strings and scrambles them to obscure data.
     * *Status:* Completed
 *   **📁 [urldetector](./urldetector)** 
-    * *Description:* Collection of foundational Python syntax, conditional statements, and iterative loops.
-    * *Status:* In Progress
-*   **📁 03_upcoming_assignments**
+    * *Description:* A starter python code to detect safety of entered url.
+    * *Status:* Completed
+*   **📁 [upcoming project]**
     * *Description:* Data structures, object-oriented concepts, and automation tools as my college curriculum progresses.
     * *Status:* Upcoming
 
