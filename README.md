@@ -11,7 +11,7 @@ To keep this space clean, all codes are organized inside chronologically ordered
 *   **📁 [01_password_scrambler](./01_password_scrambler)**
     * *Description:* A basic cryptographic learning script that takes raw password strings and scrambles them to obscure data.
     * *Status:* Completed
-*   **📁 [02_logic_basics](./02_logic_basics)** 
+*   **📁 [urldetector](./urldetector)** 
     * *Description:* Collection of foundational Python syntax, conditional statements, and iterative loops.
     * *Status:* In Progress
 *   **📁 03_upcoming_assignments**
