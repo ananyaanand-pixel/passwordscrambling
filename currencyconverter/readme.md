@@ -21,7 +21,8 @@ The script hardcodes specific currency evaluations based on late-August 2026 val
 | South Korean Won (₩) | w | val * 0.069 | Converts to INR at ₹0.069 base |
 
 ------------------------------
-## 🚀 Getting Started## Prerequisites
+## 🚀 Getting Started
+## Prerequisites
 You only need Python 3.x installed on your system. You can verify your installation by opening a command prompt/terminal and typing:
 
 python --version
